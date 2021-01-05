@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ajsb85.com
-Token: 594b3b34900a11db6083167f73755ae78706f0f37e69720c0d0644c4a39920c9
